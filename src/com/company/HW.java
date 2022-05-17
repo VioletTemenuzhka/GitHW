@@ -2,7 +2,8 @@ package com.company;
 
 public class HW {
     public static void main(String[] args) {
-        for (int i=1; i<=100; i++){
+        System.out.println("Here are my changes to the code");
+        for (int i=1; i<=50; i++){
             System.out.println(i);
         }
     }
